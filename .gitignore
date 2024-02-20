@@ -3,3 +3,6 @@ _site/
 
 # Ignore the Gemfile that is generated
 Gemfile.lock
+files/.DS_Store
+images/.DS_Store
+.DS_Store
