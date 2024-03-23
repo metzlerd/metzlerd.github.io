@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Don Metzler"
+title                    : "Donald Metzler"
 title_separator          : "-"
-name                     : &name "Don Metzler"
+name                     : &name "Donald Metzler"
 description              : &description "Research Scientist at Google"
 url                      : https://metzlerd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,9 +22,9 @@ repository               : "metzlerd.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Don Metzler"
+  name             : "Donald Metzler"
   pronouns         : # example: "she/her"  
-  bio              : "Large Language Models, Machine Learning, Information Retrieval"
+  bio              : "Large Language Models, Information Retrieval"
   location         : # LOCATION
   employer         : "Google"
   uri              : # URL
