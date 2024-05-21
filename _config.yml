@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Donald Metzler"
 title_separator          : "-"
 name                     : &name "Donald Metzler"
-description              : &description "Research Scientist at Google"
+description              : &description "Research Scientist at Google DeepMind"
 url                      : https://metzlerd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "metzlerd.github.io"
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Large Language Models, Information Retrieval"
   location         : # LOCATION
-  employer         : "Google"
+  employer         : "Google DeepMind"
   uri              : # URL
   email            : # EMAIL
 

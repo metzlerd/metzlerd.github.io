@@ -7,7 +7,7 @@ redirect_from:
   - /bio
 ---
 
-Donald Metzler is a Senior Staff Research Scientist at Google Inc. Prior to
+Donald Metzler is a Senior Staff Research Scientist at Google DeepMind. Prior to
 that, he was a Research Assistant Professor at the University of Southern
 California (USC) and a Senior Research Scientist at Yahoo!. He is a
 Distinguished Member of the ACM and the recipient of multiple Test of Time and
