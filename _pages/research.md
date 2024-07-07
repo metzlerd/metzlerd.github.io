@@ -11,7 +11,7 @@ My current research areas include language modeling foundations, generative info
 retrieval, trust and safety, information quality, factuality, and efficiency.
 
 To get a technical sense of my (and my teams') research, see my [Scholar profile](https://scholar.google.com/citations?user=bmXpOd8AAAAJ&hl=en)
-or my [CV](files/metzler-cv.pdf). Furthmore, below are links to corporate blog posts, YouTube videos,
+or my [CV](../files/metzler-cv.pdf). Furthermore, below are links to corporate blog posts, YouTube videos,
 and press articles that provide a different perspective on the broader impact of the research.
 
 ## Articles

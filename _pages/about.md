@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a Senior Staff Research Scientist at Google. I currently lead a team in
 [Google DeepMind](https://deepmind.google/) focused on a variety of problems related to
-generative AI and large  language models. My current research areas include language modeling
+generative AI and large language models. My current research areas include language modeling
 foundations, generative information retrieval, trust and safety, information quality,
 factuality, and efficiency.
 
