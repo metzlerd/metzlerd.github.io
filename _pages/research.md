@@ -7,7 +7,7 @@ redirect_from:
   - /research
 ---
 
-My current research areas include language modeling foundations (model architectures, data, evals), model trustworthiness, and generative information retrieval.
+My current research areas include language modeling foundations, safety, factuality, and retrieval/ranking.
 
 To get a technical sense of my (and my teams') research, see my [Scholar profile](https://scholar.google.com/citations?user=bmXpOd8AAAAJ&hl=en)
 or my [CV](../files/metzler-cv.pdf). Furthermore, below are links to corporate blog posts, YouTube videos,
