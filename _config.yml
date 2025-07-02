@@ -12,7 +12,7 @@ title                    : "Donald Metzler"
 title_separator          : "-"
 name                     : &name "Donald Metzler"
 description              : &description "Research Scientist at Google DeepMind"
-url                      : https://metzlerd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://www.don-metzler.net # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "metzlerd.github.io"
 
