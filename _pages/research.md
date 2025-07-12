@@ -14,8 +14,8 @@ or my [CV](../files/metzler-cv.pdf). Furthermore, below are links to corporate b
 and press articles that provide a different perspective on the broader impact of the research.
 
 ## Articles
-* **July 2025:** Gemini 2.5: Our most intelligent AI model ([The Keyword](https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/#gemini-2-5-thinking))
-* **March 2024:** New ways we’re tackling spammy, low-quality content on Search ([The Keyword Blog Post](https://blog.google/products/search/google-search-update-march-2024/))
+* **July 2025:** Gemini 2.5: Our most intelligent AI model ([The Keyword](https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/))
+* **March 2024:** New ways we’re tackling spammy, low-quality content on Search ([The Keyword](https://blog.google/products/search/google-search-update-march-2024/))
 * **March 2024:** Google is starting to squash more spam and AI in search results ([The Verge](https://www.theverge.com/2024/3/5/24091099/google-search-high-quality-results-spam-ai-content))
 * **September 2023:** Improving Trust in AI and Online Communities with PaLM-based Moderation ([Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-text-moderation))
 * **July 2023:** Google’s Jigsaw was trying to fight toxic speech with AI. Then the AI started talking ([Fast Company](https://www.fastcompany.com/90929549/google-jigsaw-toxic-speech-ai))
