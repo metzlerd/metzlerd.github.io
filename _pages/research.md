@@ -7,11 +7,19 @@ redirect_from:
   - /research
 ---
 
-My current research areas include language modeling foundations, safety, factuality, and retrieval/ranking.
+My current research areas include language modeling foundations, safety, factuality, and retrieval/ranking. The work
+from my teams and I has contributed to some of Google's most significant product launches, including Gemini and Search.
 
-To get a technical sense of my (and my teams') research, see my [Scholar profile](https://scholar.google.com/citations?user=bmXpOd8AAAAJ&hl=en)
-or my [CV](../files/metzler-cv.pdf). Furthermore, below are links to corporate blog posts, YouTube videos,
-and press articles that provide a different perspective on the broader impact of the research.
+To get a technical sense of my research, see my [Scholar profile](https://scholar.google.com/citations?user=bmXpOd8AAAAJ&hl=en) or my [CV](../files/metzler-cv.pdf). 
+Below are some selected recent publications and links to articles and videos that provide a broader perspective on the impact of the research.
+
+## Selected Recent Publications
+* Gemini Team. "[Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities](https://arxiv.org/abs/2507.06261)," *arXiv*, 2025.
+* Balog, K., Metzler, D., and Qin, Z. "[Rankers, Judges, and Assistants: Towards Understanding the Interplay of LLMs in Information Retrieval Evaluation](https://arxiv.org/abs/2503.19092)," in *SIGIR*, 2025.
+* Baumgärtner, T., Gao, Y., Alon, D., and Metzler, D. "[Best-of-Venom: Attacking RLHF by Injecting Poisoned Preference Data](https://arxiv.org/abs/2404.05530)," in *COLM*, 2024.
+* Gao, Y., Alon, D., and Metzler, D. "[Impact of Preference Noise on the Alignment Performance of Generative Language Models](https://arxiv.org/abs/2404.09824)," in *COLM*, 2024.
+* Qin, Z., Jagerman, R., Hui, K., et al. "[Large Language Models are Effective Text Rankers with Pairwise Ranking Prompting](https://arxiv.org/abs/2306.17563)," in *Findings of NAACL*, 2023.
+* Pradeep, R., Hui, K., Gupta, J., et al. "[How Does Generative Retrieval Scale to Millions of Passages?](https://arxiv.org/abs/2305.11841)," in *EMNLP*, 2023.
 
 ## Articles
 * **July 2025:** Gemini 2.5: Our most intelligent AI model ([The Keyword](https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/))
