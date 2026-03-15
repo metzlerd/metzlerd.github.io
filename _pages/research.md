@@ -7,8 +7,16 @@ redirect_from:
   - /research
 ---
 
-My current research areas include language modeling foundations, safety, factuality, and retrieval/ranking. The work
-from my teams and I have contributed to some of Google's most significant products, including Gemini and Search.
+where I lead a group of research scientists and software engineers. Our work focuses
+on the foundations of generative AI and large language modeling, with an emphasis on
+AI-generated text and code detection, freshness and temporal reasoning, RL scaling,
+and Agents. My teams' research has been instrumental in major launches across Gemini,
+Search, Cloud, and Chrome.
+
+My current research focuses on the foundations of generative AI and large language
+modeling, with an emphasis on AI-generated text and code detection, freshness and
+temporal reasoning, RL scaling, and Agents. The work from my teams and I have
+contributed to some of Google's most significant products, including Gemini and Search.
 
 To get a technical sense of my research, see my [Scholar profile](https://scholar.google.com/citations?user=bmXpOd8AAAAJ&hl=en) or my [CV](../files/metzler-cv.pdf). 
 Below are some selected recent publications and links to articles and videos that provide a broader perspective on the impact of the research.

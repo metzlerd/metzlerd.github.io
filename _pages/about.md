@@ -9,12 +9,10 @@ redirect_from:
 
 I'm a Senior Staff Research Scientist at [Google DeepMind](https://deepmind.google/),
 where I lead a group of research scientists and software engineers. Our work focuses
-on the foundations of generative AI and language modeling, with an emphasis on safety,
-factuality, and retrieval/ranking. My teams' research has been instrumental in major
-launches across Gemini, Search, Cloud, and Chrome.
-
-My personal research interest lies at the intersection of generative AI models and
-information retrieval (Search) systems.
+on the foundations of generative AI and large language modeling, with an emphasis on
+AI-generated text and code detection, freshness and temporal reasoning, RL scaling,
+and Agents. My teams' research has been instrumental in major launches across Gemini,
+Search, Cloud, and Chrome.
 
 I am a Distinguished Member of the ACM and a member of the
 [SIGIR Academy](https://sigir.org/awards/sigir-academy/).

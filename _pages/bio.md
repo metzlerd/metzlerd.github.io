@@ -8,9 +8,11 @@ redirect_from:
 ---
 
 Donald Metzler is a Senior Staff Research Scientist at Google DeepMind. He leads a
-group of software engineers and research scientists focused on language modeling
-foundations, safety, factuality, and retrieval/ranking. His group's work has
-contributed to major launches across Gemini, Search, Cloud, and Chrome.
+group of software engineers and research scientists focused on the foundations of
+generative AI and large language modeling, with an emphasis on AI-generated text
+and code detection, freshness and temporal reasoning, RL scaling, and Agents.
+His group's work has contributed to major launches across Gemini, Search, Cloud,
+and Chrome.
 
 At Google, he previously led the Apps Search Quality and Intelligence team, which
 drove a series of major information-finding-related innovations to consumer and
