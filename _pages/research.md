@@ -1,17 +1,12 @@
 ---
 layout: archive
 title: "Research"
+description: "Selected publications, articles, and talks by Donald Metzler on generative AI, large language modeling, and information retrieval."
 permalink: /research/
 author_profile: true
 redirect_from:
   - /research
 ---
-
-where I lead a group of research scientists and software engineers. Our work focuses
-on the foundations of generative AI and large language modeling, with an emphasis on
-AI-generated text and code detection, freshness and temporal reasoning, RL scaling,
-and Agents. My teams' research has been instrumental in major launches across Gemini,
-Search, Cloud, and Chrome.
 
 My current research focuses on the foundations of generative AI and large language
 modeling, with an emphasis on AI-generated text and code detection, freshness and
@@ -26,11 +21,11 @@ Below are some selected recent publications and links to articles and videos tha
 * Balog, K., Metzler, D., and Qin, Z. "[Rankers, Judges, and Assistants: Towards Understanding the Interplay of LLMs in Information Retrieval Evaluation](https://arxiv.org/abs/2503.19092)," in *SIGIR*, 2025.
 * Baumgärtner, T., Gao, Y., Alon, D., and Metzler, D. "[Best-of-Venom: Attacking RLHF by Injecting Poisoned Preference Data](https://arxiv.org/abs/2404.05530)," in *COLM*, 2024.
 * Gao, Y., Alon, D., and Metzler, D. "[Impact of Preference Noise on the Alignment Performance of Generative Language Models](https://arxiv.org/abs/2404.09824)," in *COLM*, 2024.
-* Qin, Z., Jagerman, R., Hui, K., et al. "[Large Language Models are Effective Text Rankers with Pairwise Ranking Prompting](https://arxiv.org/abs/2306.17563)," in *Findings of NAACL*, 2023.
+* Qin, Z., Jagerman, R., Hui, K., et al. "[Large Language Models are Effective Text Rankers with Pairwise Ranking Prompting](https://arxiv.org/abs/2306.17563)," in *Findings of NAACL*, 2024.
 * Pradeep, R., Hui, K., Gupta, J., et al. "[How Does Generative Retrieval Scale to Millions of Passages?](https://arxiv.org/abs/2305.11841)," in *EMNLP*, 2023.
 
 ## Articles
-* **July 2025:** Gemini 2.5: Our most intelligent AI model ([The Keyword](https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/))
+* **March 2025:** Gemini 2.5: Our most intelligent AI model ([The Keyword](https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/))
 * **March 2024:** New ways we’re tackling spammy, low-quality content on Search ([The Keyword](https://blog.google/products/search/google-search-update-march-2024/))
 * **March 2024:** Google is starting to squash more spam and AI in search results ([The Verge](https://www.theverge.com/2024/3/5/24091099/google-search-high-quality-results-spam-ai-content))
 * **September 2023:** Improving Trust in AI and Online Communities with PaLM-based Moderation ([Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-text-moderation))
