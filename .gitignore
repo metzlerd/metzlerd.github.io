@@ -6,3 +6,6 @@ Gemfile.lock
 files/.DS_Store
 images/.DS_Store
 .DS_Store
+
+# JetBrains IDE settings
+.idea/

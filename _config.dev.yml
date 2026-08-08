@@ -1,13 +1,18 @@
-# Develop override settings
+# Local development overrides.
+#
+#   bundle exec jekyll serve --config _config.yml,_config.dev.yml
 
 url: http://localhost:4000
 
+# Keeps local browsing out of Google Analytics.
+#
+# This must be `false`, not blank: Jekyll's config merge treats an empty YAML
+# value as nil and keeps the value from _config.yml, so a blank line here
+# silently leaves the real tracking id in place. An empty string won't work
+# either, since Liquid considers "" truthy.
 analytics:
-  provider: false
-
-comments:
-  disqus:
-    shortname            : "mmistakes-dev"
+  google:
+    tracking_id: false
 
 sass:
   style: expanded
