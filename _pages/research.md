@@ -8,10 +8,10 @@ redirect_from:
   - /research
 ---
 
-My current research focuses on the foundations of generative AI and large language
-modeling, with an emphasis on AI-generated text and code detection, freshness and
-temporal reasoning, RL scaling, and Agents. The work from my teams and I have
-contributed to some of Google's most significant products, including Gemini and Search.
+My current research focuses on pre-training data quality for Gemini. More broadly, my
+work is on large language models: how they are pretrained, how their outputs can be
+detected and evaluated, and how they store and retrieve knowledge, building on two
+decades of earlier work on retrieval and ranking.
 
 To get a technical sense of my research, see my [Scholar profile](https://scholar.google.com/citations?user=bmXpOd8AAAAJ&hl=en) or my [CV](../files/metzler-cv.pdf). 
 Below are some selected recent publications and links to articles and videos that provide a broader perspective on the impact of the research.

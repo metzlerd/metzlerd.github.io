@@ -8,16 +8,20 @@ redirect_from:
   - /bio
 ---
 
-Donald Metzler is a Senior Staff Research Scientist at Google DeepMind. He leads a
-group of software engineers and research scientists focused on the foundations of
-generative AI and large language modeling, with an emphasis on AI-generated text
-and code detection, freshness and temporal reasoning, RL scaling, and Agents.
-His group's work has contributed to major launches across Gemini, the Gemini app,
-Search, Cloud, and Chrome.
+Donald Metzler is a Senior Staff Research Scientist at Google DeepMind, where his
+current focus is pre-training data quality for Gemini.
 
-At Google, he previously led the Apps Search Quality and Intelligence team, which
-drove a series of major information-finding-related innovations to consumer and
-enterprise users of Gmail and Drive.
+His research is on large language models: how they are pretrained, how their outputs
+can be detected and evaluated, and how they store and retrieve knowledge. He is a
+co-author of "Emergent Abilities of Large Language Models" and of the UL2, ExT5, and
+Charformer pretraining models, and contributed to the Gemini 2.5 technical report. His
+earlier work helped establish generative retrieval as a research area, through
+"Rethinking Search: Making Domain Experts out of Dilettantes" and "Transformer Memory
+as a Differentiable Search Index."
+
+Over his career at Google he has led research groups of up to thirty engineers and
+scientists, including the Apps Search Quality and Intelligence team, whose work on
+personal search shipped across Gmail and Drive.
 
 Prior to joining Google, he was a Research Assistant Professor at the University of
 Southern California (USC) and a Senior Research Scientist at Yahoo! Research. He is a
