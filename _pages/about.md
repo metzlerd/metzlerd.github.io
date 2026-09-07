@@ -27,10 +27,8 @@ the ACM.
 [Emergent Abilities of Large Language Models](https://arxiv.org/abs/2206.07682)
 (7,300+ citations), the [UL2](https://arxiv.org/abs/2205.05131),
 [ExT5](https://arxiv.org/abs/2111.10952), and [Charformer](https://arxiv.org/abs/2106.12672)
-pretraining models, the [Long Range Arena](https://arxiv.org/abs/2011.04006) benchmark,
-and [Efficient Transformers: A Survey](https://arxiv.org/abs/2009.06732). UL2 was
-released as open weights in 2022. I contributed to the
-[Gemini 2.5](https://arxiv.org/abs/2507.06261) technical report.
+models, the [Long Range Arena](https://arxiv.org/abs/2011.04006) benchmark,
+and [Efficient Transformers: A Survey](https://arxiv.org/abs/2009.06732).
 
 **Generative retrieval.** [Rethinking Search: Making Domain Experts out of Dilettantes](https://arxiv.org/abs/2105.02274)
 (2021) made the case for replacing the classic index-and-rank pipeline with a single

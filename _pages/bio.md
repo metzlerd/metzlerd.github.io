@@ -14,7 +14,7 @@ current focus is pre-training data quality for Gemini.
 His research is on large language models: how they are pretrained, how their outputs
 can be detected and evaluated, and how they store and retrieve knowledge. He is a
 co-author of "Emergent Abilities of Large Language Models" and of the UL2, ExT5, and
-Charformer pretraining models, and contributed to the Gemini 2.5 technical report. His
+Charformer models. His
 earlier work helped establish generative retrieval as a research area, through
 "Rethinking Search: Making Domain Experts out of Dilettantes" and "Transformer Memory
 as a Differentiable Search Index."
